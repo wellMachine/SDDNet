@@ -1,4 +1,4 @@
-# SDDNet
+# Enhancing SAM2 for Industrial Defect Detection via Dual-Adapter Fine-Tuning
 
 ## Requirements
 This project uses the SAM2 code in `./sam2/` and does **not** require installing SAM2 as a separate package.
