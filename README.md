@@ -5,8 +5,8 @@ This project uses the SAM2 code in `./sam2/` and does **not** require installing
 If you already have a working environment for SAM2, you can reuse it. Otherwise, you may create a new conda environment:
 
 ```shell
-conda create -n sam2-rs python=3.10
-conda activate sam2-rs
+conda create -n SDDNet python=3.10
+conda activate SDDNet
 pip install -r requirements.txt
 ```
 ## Requirements
