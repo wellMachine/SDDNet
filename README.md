@@ -81,14 +81,14 @@ Example `eval.sh` content:
 python eval-sod.py \
 --dataset_name "dataset_name" \
 --pred_path "path/to/predictions" \
---gt_path "path/to/ground_truth"
+--gt_path "path/to/ground_truth" \
 ```
 
 
 ## 📥 预测图下载
 
 预测结果已上传至百度网盘（提取码：`m396`），点击下面链接下载：  
-链接: https://pan.baidu.com/s/1Jhu2FbXQ8BYp6CuS6IESOA?pwd=m396
+链接: https://pan.baidu.com/s/12bkGTBcI1kqNXj1XKZVsrg?pwd=m396
 
 ## 📂 数据集下载
 
