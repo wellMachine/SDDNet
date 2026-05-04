@@ -1,15 +1,6 @@
 # Enhancing SAM2 for Industrial Defect Detection via Dual-Adapter Fine-Tuning
 
 ## Requirements
-This project uses the SAM2 code in `./sam2/` and does **not** require installing SAM2 as a separate package.
-If you already have a working environment for SAM2, you can reuse it. Otherwise, you may create a new conda environment:
-
-```shell
-conda create -n SDDNet python=3.10
-conda activate SDDNet
-pip install -r requirements.txt
-```
-## Requirements
 
 This project uses the SAM2 code in `./sam2/` and does **not** require installing SAM2 as a separate package.
 If you already have a working environment for SAM2, you can reuse it. Otherwise, you may create a new conda environment:
