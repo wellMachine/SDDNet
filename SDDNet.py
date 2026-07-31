@@ -276,7 +276,7 @@ class SFAP(nn.Module):
         self.var_enh = MyVarFeatureEnhance(
             input_dims=(144, 288, 576, 1152),
             embed_dim=256,
-            depth=6,
+            depth=3,
             num_heads=8,
             mlp_ratio=4.0,
         )
